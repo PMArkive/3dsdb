@@ -1488,14 +1488,6 @@
         "Product Code": "CTR-N-A9AE"
     },
     {
-        "Name": "Percy's Predicament Deluxe",
-        "UID": "50010000043078",
-        "TitleID": "000400000F704600",
-        "Version": "N/A",
-        "Size": "423.23 MB [3386 blocks]",
-        "Product Code": "KTR-N-CDXE"
-    },
-    {
         "Name": "Minecraft: New Nintendo 3DS Edition",
         "UID": "50010000042221",
         "TitleID": "00040000001B8700",
@@ -2392,14 +2384,6 @@
         "Product Code": "KTR-N-CCRE"
     },
     {
-        "Name": "Hyperlight EX",
-        "UID": "50010000042051",
-        "TitleID": "000400000F707F00",
-        "Version": "1072",
-        "Size": "77.41 MB [619 blocks]",
-        "Product Code": "KTR-N-CEXE"
-    },
-    {
         "Name": "The Legend of Zelda Ballad of The Goddess",
         "UID": "50010000042124",
         "TitleID": "00040000001B5800",
@@ -2656,14 +2640,6 @@
         "Product Code": "CTR-N-BCPE"
     },
     {
-        "Name": "Power Disc Slam Update Ver. 1.10",
-        "UID": "50010000041962",
-        "TitleID": "0004000E00158E00",
-        "Version": "1056",
-        "Size": "5.85 MB [47 blocks]",
-        "Product Code": "CTR-U-KDAE"
-    },
-    {
         "Name": "BREATH OF FIRE",
         "UID": "50010000041699",
         "TitleID": "000400000F705400",
@@ -2710,14 +2686,6 @@
         "Version": "N/A",
         "Size": "473.17 MB [3785 blocks]",
         "Product Code": "CTR-N-KMRE"
-    },
-    {
-        "Name": "BlockForm",
-        "UID": "50010000041728",
-        "TitleID": "000400000F707000",
-        "Version": "N/A",
-        "Size": "40.35 MB [323 blocks]",
-        "Product Code": "KTR-N-CBFE"
     },
     {
         "Name": "Severed",
@@ -3038,14 +3006,6 @@
         "Version": "N/A",
         "Size": "157.13 MB [1257 blocks]",
         "Product Code": "CTR-N-KDGE"
-    },
-    {
-        "Name": "Power Disc Slam",
-        "UID": "50010000041436",
-        "TitleID": "0004000000158E00",
-        "Version": "N/A",
-        "Size": "129.82 MB [1039 blocks]",
-        "Product Code": "CTR-N-KDAE"
     },
     {
         "Name": "Word Logic by POWGI",
